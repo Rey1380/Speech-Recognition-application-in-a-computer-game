@@ -1,4 +1,4 @@
-# Speech-recognition-
+# Speech-recognition
 Speech recognition application in dodger plane game
 For speech recgnition, the audio must first be processed properly. Because audio is an analog signal,
 Then, using audio signal processing algorithms, important features are extracted from the sound.
